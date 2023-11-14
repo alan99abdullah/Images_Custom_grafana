@@ -1,0 +1,7 @@
+Order-service
+docker pull ghcr.io/alan99abdullah/order-service:latest
+
+
+
+shiping-service
+docker pull ghcr.io/alan99abdullah/shipping-service:latest
